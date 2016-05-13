@@ -10,7 +10,7 @@
 
 #### 1.0 Purpose & Scope <a id="purpose-scope"/>
 
-The objective of the *GitHub Example* is to demonstrate the capabilities of GitHub as a documentation tool, used by the Business Operations team. It will demonstrate that GitHub is audit-ready, (insert additional features required).
+The huge objective of the *GitHub Example* is to demonstrate the capabilities of GitHub as a documentation tool, used by the Business Operations team. It will demonstrate that GitHub is audit-ready, (insert additional features required).
 
 #### 2.0 Business Value <a id="business-value"/>
 
