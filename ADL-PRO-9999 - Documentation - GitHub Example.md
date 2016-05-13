@@ -32,10 +32,16 @@ This process is described in the table following.
 
 Note: If you are performing a role within this process as a delegate or backup, open the [Separation of Duties Matrix](http://i.imgur.com/DPsCk71.png) to ensure there is no conflict with any other role you may be performing. If there may be a conflict, consult your manager.
 
+|Step #|Responsibility|Activity|
+|:---:|:---:|:---|
+|**01**|Person responsible<br>![Control Point](https://raw.githubusercontent.com/sljinu/hello-world/master/Pictures/CP.gif)|Task needs to be done.<br>If **Yes** - task is done, proceed to **02**.<br>If **No** - task is not done, proceed to **03**.|
+|**02**|Person responsible|Do task. Proceed to **04**|
+
+######OR
+
 1. Do this
 2. Do that
-3. Do everything
-4. Done
+3. Done
 
 #### 5.0 Control Points & Measurements <a id="control-points"/>
 
