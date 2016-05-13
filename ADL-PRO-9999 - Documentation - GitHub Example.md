@@ -20,7 +20,7 @@ The implementation and execution of this tool will provide the following value t
 
 #### 3.0 Process Diagram <a id="process-diagram"/>
 
-The following diagrams provide the process flow. For a description of the symbols used in these diagrams, refer to the [Process Diagram Key](http://i.imgur.com/6fIcLsr.png). For direct access to the process information for external processes, click the corresponding box on the diagrams. All other actions and decisions are described in [Process Steps](http://imgur.com/OsQEklz) below.
+The following diagrams provide the process flow. For a description of the symbols used in these diagrams, refer to the [Process Diagram Key](http://i.imgur.com/6fIcLsr.png). For direct access to the process information for external processes, click the corresponding box on the diagrams. All other actions and decisions are described in [Process Steps](http://i.imgur.com/OsQEklz) below.
 
 However, there is no diagram. Here is a picture of a cat.
 
@@ -62,8 +62,11 @@ Role to Employee Conflict Matrix (no conflicts exist).
 #### 9.0 Document Control <a id="doc-control"/>
 
 The owner, approver, author/s and reviewer/s responsible for the release of this document are:
-|Role | Name | Functional Title|
-|-----------|------------|-----------|
-|Owner & Approver | Person 1 | Document Owner|
-|Author | Person 2 | Document Author|
-|Reviewer | Person 3 | Document Reviewer|
+
+|Role         | Name      | Functional Title|
+|:---:|:---:|:---:|
+|Owner & Approver | [Person 1](http://i.imgur.com/qHvACUz.png) | Document Owner|
+|Author | [Person 2](http://i.imgur.com/PVxbVVj.png) | Document Author|
+|Reviewer | [Person 3](http://i.imgur.com/AB0eAFu.png) | Document Reviewer|
+
+All review feedback and approvals are electronically verified and stored within the online version of this document.
