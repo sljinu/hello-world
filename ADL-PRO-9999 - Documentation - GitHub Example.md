@@ -47,8 +47,14 @@ Note: If you are performing a role within this process as a delegate or backup, 
 
 The resources required to perform this process are:
 
-* [Hyperlink to Tool](http://i.imgur.com/ayqoqEe.jpg)Description of tool, if required, and instructions on gaining access to the tool . . .[Hyperlink to Site](http://i.imgur.com/KM6E918.jpg)Description of document or site, if required, and any instructions on gaining access to the document or site. . .[Hyperlink to Report](http://i.imgur.com/LOiwwoM.png)
-Description of report, if required, and instructions on gaining access to the report . . .[Hyperlink to Education or Training](http://i.imgur.com/Vf2sID6.jpg)Description of education or training, if required, and instructions on gaining access to the education or training . . .
+* [Hyperlink to Tool](http://i.imgur.com/ayqoqEe.jpg)<br>
+  Description of tool, if required, and instructions on gaining access to the tool . . .
+* [Hyperlink to Site](http://i.imgur.com/KM6E918.jpg)<br>
+  Description of document or site, if required, and any instructions on gaining access to the document or site. . .
+* [Hyperlink to Report](http://i.imgur.com/LOiwwoM.png)<br>
+  Description of report, if required, and instructions on gaining access to the report . . .
+* [Hyperlink to Education or Training](http://i.imgur.com/Vf2sID6.jpg)<br>
+  Description of education or training, if required, and instructions on gaining access to the education or training . . .
 
 #### 7.0 Roles & Responsibilities <a id="roles"/>
 
