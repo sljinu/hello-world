@@ -5,5 +5,5 @@ GitHub can create branches from the master branch and keep track of changes thro
 
 First column | second column
 ---|---
-woohoo|:smirk:
+woohoo|
 
