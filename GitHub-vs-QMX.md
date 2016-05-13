@@ -12,4 +12,3 @@ GitHub can create branches from the master branch and keep track of changes thro
 sljinu thinks:
 > blockquotes are amazing
 > they really are!
-force push?
