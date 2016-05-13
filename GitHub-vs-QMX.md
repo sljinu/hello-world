@@ -1,9 +1,8 @@
-## 1. QMX Feature:
-Review and approval workflow
+## 1. Fork and pull workflow
 
-GitHub can create branches from the master branch and keep track of changes through 'Commits'. As a 'Commit' is made, comments can be added describing why commit is being made. A 'Pull' request would then be created requesting that the 'Commits' be merged into the production copy. All 'Commits' can be reviewed and compared against the 'Master' copy prior to merging. This can help encourage constant incremental updates.
+GitHub allows 'collaborators' (process owners) to create a copy of the existing production 'repository' (document folder) and create local changes. These changes are called 'commits' and can be tracked over time. Each incremental change performed can be 'committed' and comments about the change can be added.
+Once all updates to the document are complete, a 'pull' request can be raised. The repository administrator will be able to review the changes and if satisfied, 'merge' the changes into the 'master' branch (production stream). The repository can be setup such that only the administrator/s may 'push' changes directly into the 'master' branch.
 
-First column | second column
----|---
-woohoo|
+## 2. Review changes
 
+Every single change made between version of the documents can be tracked through 'commits'. They can even be compared in a side-by-side manner as shown below:
