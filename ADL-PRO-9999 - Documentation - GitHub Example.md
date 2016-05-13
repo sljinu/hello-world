@@ -15,8 +15,8 @@ The objective of the *GitHub Example* is to demonstrate the capabilities of GitH
 #### 2.0 Business Value <a id="business-value"/>
 
 The implementation and execution of this tool will provide the following value to the business:
-* Proactively transition away from Notes tools, ensuring no loss of productivity during the inevitable demise of Notes period
-* Utilise open source software that is adopted and frequently used by the software development community
+* Proactively transition away from Notes tools, ensuring no loss of productivity when Notes inevitably faces its demise
+* Utilise open source software that is adopted and frequently used by the software development community instead of ancient Notes technology
 
 #### 3.0 Process Diagram <a id="process-diagram"/>
 
@@ -39,7 +39,16 @@ Note: If you are performing a role within this process as a delegate or backup, 
 
 #### 5.0 Control Points & Measurements <a id="control-points"/>
 
+|CP#|Control Point Description|CP Owner|Validation and/or Measurement|
+|---|---|---|---|
+|IGHCP01|Name of control point|Owner|Description of validation and/or measurement.<br> **Target:** Target metric|
+
 #### 6.0 Resources <a id="resources"/>
+
+The resources required to perform this process are:
+
+* [Hyperlink to Tool](http://i.imgur.com/ayqoqEe.jpg)Description of tool, if required, and instructions on gaining access to the tool . . .[Hyperlink to Site](http://i.imgur.com/KM6E918.jpg)Description of document or site, if required, and any instructions on gaining access to the document or site. . .[Hyperlink to Report](http://i.imgur.com/LOiwwoM.png)
+Description of report, if required, and instructions on gaining access to the report . . .[Hyperlink to Education or Training](http://i.imgur.com/Vf2sID6.jpg)Description of education or training, if required, and instructions on gaining access to the education or training . . .
 
 #### 7.0 Roles & Responsibilities <a id="roles"/>
 
