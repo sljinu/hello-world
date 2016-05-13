@@ -7,3 +7,7 @@ Once all updates to the document are complete, a 'pull' request can be raised. T
 
 Every single change made between version of the documents can be tracked through 'commits'. They can even be compared in a side-by-side manner as shown below:
 ![alt text](https://raw.githubusercontent.com/sljinu/hello-world/sljinu-patch-1/github_snapshot.jpg)
+
+## 3. Browser based
+
+Everything is browser based, including the text editor, and it uses the simple Markdown formatting syntax (see: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/))
