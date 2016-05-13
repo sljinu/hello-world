@@ -1,3 +1,4 @@
+<div style="float: right">
 1. [Purpose & Scope](#purpose-scope)
 2. [Business Value](#business-value)
 3. [Process Diagram](#process-diagram)
@@ -6,7 +7,7 @@
 6. [Resources](#resources)
 7. [Role Descriptions](#roles)
 8. [Separation of Duties](#sod)
-9. [Document Control](#doc-control)
+9. [Document Control](#doc-control)</div>
 
 #### 1.0 Purpose & Scope <a id="purpose-scope"/>
 
