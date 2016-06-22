@@ -22,6 +22,8 @@ The implementation and execution of this tool will provide the following value t
 
 The following diagrams provide the process flow. For a description of the symbols used in these diagrams, refer to the [Process Diagram Key](http://i.imgur.com/6fIcLsr.png). For direct access to the process information for external processes, click the corresponding box on the diagrams. All other actions and decisions are described in [Process Steps](http://i.imgur.com/OsQEklz) below.
 
+![Test visio](https://raw.githubusercontent.com/sljinu/hello-world/new/New%20Visio%20for%20Github.svg)
+
 However, there is no diagram. Here is a picture of a cat.
 
 ![Cat in a box](https://raw.githubusercontent.com/sljinu/hello-world/master/cat_in_a_box.jpg)
