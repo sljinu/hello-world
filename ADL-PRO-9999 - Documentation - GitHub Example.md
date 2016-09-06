@@ -26,6 +26,8 @@ However, there is no diagram. Here is a picture of a cat.
 
 ![Cat in a box](https://raw.githubusercontent.com/sljinu/hello-world/master/cat_in_a_box.jpg)
 
+![Process](https://raw.githubusercontent.com/sljinu/hello-world/master/Pictures/test.svg)
+
 #### 4.0 Process Steps <a id="process-steps"/>
 
 This process is described in the table following.
